@@ -21,6 +21,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "668d03d3-3ebd-4eeb-8b66-c1c7e66bdb6e"
+      }
+    },
+    "owner": "rolandaayo"
   }
 }
